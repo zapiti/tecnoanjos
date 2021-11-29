@@ -1,0 +1,5 @@
+lib/app/modules/home/modules/client_wallet/client_wallet_module.dart
+lib/app/modules/home/modules/client_wallet/client_wallet_page.dart
+test/app/modules/home/modules/client_wallet/client_wallet_page_test.dart
+lib/app/modules/home/modules/client_wallet/client_wallet_bloc.dart
+test/app/modules/home/modules/client_wallet/client_wallet_bloc_test.dart

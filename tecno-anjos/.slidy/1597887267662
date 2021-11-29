@@ -1,0 +1,7 @@
+lib/app/modules/transition/transition_module.dart
+lib/app/modules/transition/transition_page.dart
+test/app/modules/transition/transition_page_test.dart
+lib/app/modules/transition/bloc/transition_bloc.dart
+lib/app/modules/transition/bloc/transition_state.dart
+lib/app/modules/transition/bloc/transition_event.dart
+test/app/modules/transition/transition_bloc_test.dart

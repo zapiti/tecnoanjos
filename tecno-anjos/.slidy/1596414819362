@@ -1,0 +1,5 @@
+lib/app/modules/home/modules/chat_tecno_client/chat_tecno_client_module.dart
+lib/app/modules/home/modules/chat_tecno_client/chat_tecno_client_page.dart
+test/app/modules/home/modules/chat_tecno_client/chat_tecno_client_page_test.dart
+lib/app/modules/home/modules/chat_tecno_client/chat_tecno_client_bloc.dart
+test/app/modules/home/modules/chat_tecno_client/chat_tecno_client_bloc_test.dart

@@ -1,0 +1,5 @@
+lib/app/modules/finance/finance_module.dart
+lib/app/modules/finance/finance_page.dart
+test/app/modules/finance/finance_page_test.dart
+lib/app/modules/finance/finance_bloc.dart
+test/app/modules/finance/finance_bloc_test.dart

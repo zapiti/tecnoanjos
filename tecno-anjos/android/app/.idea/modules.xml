@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/138073063/android.iml" filepath="$PROJECT_DIR$/.idea/modules/138073063/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2113847273/audioplayers.iml" filepath="$PROJECT_DIR$/.idea/modules/2113847273/audioplayers.iml" group="android/audioplayers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1962773700/cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/1962773700/cloud_firestore.iml" group="android/cloud_firestore" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-32419871/connectivity.iml" filepath="$PROJECT_DIR$/.idea/modules/-32419871/connectivity.iml" group="android/connectivity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/274266562/device_info.iml" filepath="$PROJECT_DIR$/.idea/modules/274266562/device_info.iml" group="android/device_info" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2138426379/firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-2138426379/firebase_core.iml" group="android/firebase_core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/920715010/firebase_remote_config.iml" filepath="$PROJECT_DIR$/.idea/modules/920715010/firebase_remote_config.iml" group="android/firebase_remote_config" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1270727513/flutter_keyboard_visibility.iml" filepath="$PROJECT_DIR$/.idea/modules/-1270727513/flutter_keyboard_visibility.iml" group="android/flutter_keyboard_visibility" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2086478768/flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-2086478768/flutter_plugin_android_lifecycle.iml" group="android/flutter_plugin_android_lifecycle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1587692235/flutter_secure_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1587692235/flutter_secure_storage.iml" group="android/flutter_secure_storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1225588436/geocoder.iml" filepath="$PROJECT_DIR$/.idea/modules/-1225588436/geocoder.iml" group="android/geocoder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/601153754/geocoding.iml" filepath="$PROJECT_DIR$/.idea/modules/601153754/geocoding.iml" group="android/geocoding" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/96402048/get_mac.iml" filepath="$PROJECT_DIR$/.idea/modules/96402048/get_mac.iml" group="android/get_mac" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1459412535/google_maps_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/1459412535/google_maps_flutter.iml" group="android/google_maps_flutter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2117070175/image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-2117070175/image_picker.iml" group="android/image_picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1729252527/location.iml" filepath="$PROJECT_DIR$/.idea/modules/1729252527/location.iml" group="android/location" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1319305907/onesignal_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/-1319305907/onesignal_flutter.iml" group="android/onesignal_flutter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-148194813/package_info.iml" filepath="$PROJECT_DIR$/.idea/modules/-148194813/package_info.iml" group="android/package_info" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2144633160/path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/2144633160/path_provider.iml" group="android/path_provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2012427815/responsive_table.iml" filepath="$PROJECT_DIR$/.idea/modules/2012427815/responsive_table.iml" group="android/responsive_table" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1078079174/sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/-1078079174/sqflite.iml" group="android/sqflite" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-289355088/url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/-289355088/url_launcher.iml" group="android/url_launcher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1491561356/vibration.iml" filepath="$PROJECT_DIR$/.idea/modules/-1491561356/vibration.iml" group="android/vibration" />
+    </modules>
+  </component>
+</project>

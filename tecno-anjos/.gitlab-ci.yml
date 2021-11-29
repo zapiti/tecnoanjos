@@ -1,0 +1,79 @@
+stages:
+  - build
+  - deploy
+
+build-flutter-web-dev:
+  stage: build
+  image: cirrusci/flutter:1.22.5
+  before_script:
+    - flutter channel stable
+    - flutter upgrade
+    - flutter config --enable-web
+  script:
+    - flutter build web  -t lib/main_dev.dart --release
+    - cp -r build/web public
+  artifacts:
+    paths:
+      - ./public
+  only:
+    - develop
+
+build-flutter-web-hml:
+  stage: build
+  image: cirrusci/flutter:1.22.5
+  before_script:
+    - flutter channel stable
+    - flutter upgrade
+    - flutter config --enable-web
+  script:
+    - flutter build web  -t lib/main_homolog.dart --release
+    - cp -r build/web public
+  artifacts:
+    paths:
+      - ./public
+  only:
+    - hml
+
+
+
+deployprd:
+  stage: deploy
+  image:  python:2-alpine
+  environment:
+  script:
+    - pip install awscli
+    - aws configure set aws_access_key_id $ACCESS_KEY_AWS
+    - aws configure set aws_secret_access_key $SECRET_KEY_AWS
+    - aws configure set aws_default_region sa-east-1
+    - aws s3 sync public/ s3://tecno-tech-prd.com --acl public-read
+    - aws cloudfront create-invalidation --distribution-id 	E3T9H6E07J9J1I --paths  "/*"
+  only:
+    - master
+
+deployhml:
+  stage: deploy
+  image:  python:2-alpine
+  environment:
+  script:
+    - pip install awscli
+    - aws configure set aws_access_key_id $ACCESS_KEY_AWS
+    - aws configure set aws_secret_access_key $SECRET_KEY_AWS
+    - aws configure set aws_default_region sa-east-1
+    - aws s3 sync public/ s3://tecno-tech-hml.com --acl public-read
+    - aws cloudfront create-invalidation --distribution-id E1MRKHKTRBHSQX --paths  "/*"
+  only:
+    - hml
+
+deploydev:
+  stage: deploy
+  image:  python:2-alpine
+  environment:
+  script:
+    - pip install awscli
+    - aws configure set aws_access_key_id $ACCESS_KEY_AWS
+    - aws configure set aws_secret_access_key $SECRET_KEY_AWS
+    - aws configure set aws_default_region sa-east-1
+    - aws s3 sync public/ s3://tecno-tech-dev.com --acl public-read
+    - aws cloudfront create-invalidation --distribution-id E4BN4WHMRGXLD --paths  "/*"
+  only:
+    - develop

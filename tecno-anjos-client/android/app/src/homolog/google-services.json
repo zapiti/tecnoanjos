@@ -1,0 +1,343 @@
+{
+  "project_info": {
+    "project_number": "530042554687",
+    "firebase_url": "https://tecnoanjos-b3f51.firebaseio.com",
+    "project_id": "tecnoanjos-b3f51",
+    "storage_bucket": "tecnoanjos-b3f51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530042554687:android:664f735c252f951f42eb8a",
+        "android_client_info": {
+          "package_name": "br.com.awscode.tecnoanjoadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530042554687-tln8hb5h1he23a7801kacgm22ab6sf6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl4Fphg9GfbOUghP_1MSDtmFy2t3MI5NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530042554687-tln8hb5h1he23a7801kacgm22ab6sf6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530042554687-3295g6ul0hl3g44rfoq4f1m92hpppm8b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.awscode.tecnoanjoadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530042554687:android:7e7b1e5f6881b67c42eb8a",
+        "android_client_info": {
+          "package_name": "br.com.awscode.tecnoanjos.cliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530042554687-964ns5nm8der7mk0te8od56ijugf2hs5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.awscode.tecnoanjos.cliente",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "530042554687-9hu2h141l78b9cg7spu2dnkep23685ag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.awscode.tecnoanjos.cliente",
+            "certificate_hash": "725dc8439290dbcb840887a26d9e8b02e79d50ee"
+          }
+        },
+        {
+          "client_id": "530042554687-plvb6idcrm1kr8djviesp2b38dfaesoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.awscode.tecnoanjos.cliente",
+            "certificate_hash": "c2886c0f17ade17bbd77dfde820a30e7eb8e9c85"
+          }
+        },
+        {
+          "client_id": "530042554687-tln8hb5h1he23a7801kacgm22ab6sf6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl4Fphg9GfbOUghP_1MSDtmFy2t3MI5NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530042554687-tln8hb5h1he23a7801kacgm22ab6sf6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530042554687-3295g6ul0hl3g44rfoq4f1m92hpppm8b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.awscode.tecnoanjoadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530042554687:android:1c65ef9698ba024b42eb8a",
+        "android_client_info": {
+          "package_name": "br.com.awscode.tecnoanjos.cliente.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530042554687-7hgdij2bcsf2e17giqlr5msc23eq3spc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.awscode.tecnoanjos.cliente.dev",
+            "certificate_hash": "c2886c0f17ade17bbd77dfde820a30e7eb8e9c85"
+          }
+        },
+        {
+          "client_id": "530042554687-albfid4fv99lqq929ut8bou018f05nhm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.awscode.tecnoanjos.cliente.dev",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "530042554687-as9dn4hdbi6usvim6bfo27to77456u5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.awscode.tecnoanjos.cliente.dev",
+            "certificate_hash": "981afd7bc9f7e7ce1625399e86105574df2d974b"
+          }
+        },
+        {
+          "client_id": "530042554687-tln8hb5h1he23a7801kacgm22ab6sf6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl4Fphg9GfbOUghP_1MSDtmFy2t3MI5NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530042554687-tln8hb5h1he23a7801kacgm22ab6sf6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530042554687-3295g6ul0hl3g44rfoq4f1m92hpppm8b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.awscode.tecnoanjoadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530042554687:android:153914e535e736ea42eb8a",
+        "android_client_info": {
+          "package_name": "br.com.awscode.tecnoanjos.cliente.homolog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530042554687-s6qg8d5arb7ua3nf1cdolp415375c86e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.awscode.tecnoanjos.cliente.homolog",
+            "certificate_hash": "3c97591836e0a3bf9309f1a3dbd1977c13788f87"
+          }
+        },
+        {
+          "client_id": "530042554687-tln8hb5h1he23a7801kacgm22ab6sf6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl4Fphg9GfbOUghP_1MSDtmFy2t3MI5NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530042554687-tln8hb5h1he23a7801kacgm22ab6sf6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530042554687-3295g6ul0hl3g44rfoq4f1m92hpppm8b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.awscode.tecnoanjoadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530042554687:android:6fd3fb90b03ac42442eb8a",
+        "android_client_info": {
+          "package_name": "br.com.awscode.tecnoanjostec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530042554687-dlkmpvsvshad4i52fg084a7rl88u32vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.awscode.tecnoanjostec",
+            "certificate_hash": "d2a1e35f413fb92a49a654eb5ee50a9dd9a60b5f"
+          }
+        },
+        {
+          "client_id": "530042554687-tln8hb5h1he23a7801kacgm22ab6sf6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl4Fphg9GfbOUghP_1MSDtmFy2t3MI5NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530042554687-tln8hb5h1he23a7801kacgm22ab6sf6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530042554687-3295g6ul0hl3g44rfoq4f1m92hpppm8b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.awscode.tecnoanjoadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530042554687:android:a6673921c708a8ed42eb8a",
+        "android_client_info": {
+          "package_name": "br.com.awscode.tecnoanjostec.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530042554687-tvl8hnoqqp2ndp2kqqok9k9a504ur3nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.awscode.tecnoanjostec.dev",
+            "certificate_hash": "3c6a74ecde9f48a79e25f783ce88b5c2a843ea00"
+          }
+        },
+        {
+          "client_id": "530042554687-tln8hb5h1he23a7801kacgm22ab6sf6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl4Fphg9GfbOUghP_1MSDtmFy2t3MI5NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530042554687-tln8hb5h1he23a7801kacgm22ab6sf6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530042554687-3295g6ul0hl3g44rfoq4f1m92hpppm8b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.awscode.tecnoanjoadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530042554687:android:01afd6f9e42bb96842eb8a",
+        "android_client_info": {
+          "package_name": "br.com.awscode.tecnoanjostec.homolog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530042554687-1coalhsu0ttmlcp9kk8c4pogs6pun0gf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.awscode.tecnoanjostec.homolog",
+            "certificate_hash": "91862fab7c9a572e412353d7345f2c36962735b9"
+          }
+        },
+        {
+          "client_id": "530042554687-tln8hb5h1he23a7801kacgm22ab6sf6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl4Fphg9GfbOUghP_1MSDtmFy2t3MI5NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530042554687-tln8hb5h1he23a7801kacgm22ab6sf6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530042554687-3295g6ul0hl3g44rfoq4f1m92hpppm8b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.awscode.tecnoanjoadmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

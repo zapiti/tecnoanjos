@@ -1,0 +1,5 @@
+lib/app/modules/controlPanel/controlPanel_module.dart
+lib/app/modules/controlPanel/controlPanel_page.dart
+test/app/modules/controlPanel/controlPanel_page_test.dart
+lib/app/modules/controlPanel/controlPanel_bloc.dart
+test/app/modules/controlPanel/controlPanel_bloc_test.dart

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-790211780/android.assets_audio_player.iml" filepath="$PROJECT_DIR$/.idea/modules/-790211780/android.assets_audio_player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/383799412/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/383799412/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1687704057/android.device_info.iml" filepath="$PROJECT_DIR$/.idea/modules/-1687704057/android.device_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1752577193/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/1752577193/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1344099893/android.geocoding.iml" filepath="$PROJECT_DIR$/.idea/modules/-1344099893/android.geocoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1989185328/android.google_maps_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/1989185328/android.google_maps_flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-268257851/android.image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-268257851/android.image_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-498935298/android.jitsi_meet.iml" filepath="$PROJECT_DIR$/.idea/modules/-498935298/android.jitsi_meet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1023565143/android.package_info.iml" filepath="$PROJECT_DIR$/.idea/modules/1023565143/android.package_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/374991900/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/374991900/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1687402534/android.sentry_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/1687402534/android.sentry_flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1715072999/android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/-1715072999/android.url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-600567529/com.aloisdeniel.geocoder.android.geocoder.iml" filepath="$PROJECT_DIR$/.idea/modules/-600567529/com.aloisdeniel.geocoder.android.geocoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-861279053/com.amplitude.amplitude_flutter.android.amplitude_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/-861279053/com.amplitude.amplitude_flutter.android.amplitude_flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1690847427/com.jaumard.smsautofill.android.sms_autofill.iml" filepath="$PROJECT_DIR$/.idea/modules/-1690847427/com.jaumard.smsautofill.android.sms_autofill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/109843651/com.onesignal.flutter.android.onesignal_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/109843651/com.onesignal.flutter.android.onesignal_flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/393658677/com.vdtlabs.get_mac.android.get_mac.iml" filepath="$PROJECT_DIR$/.idea/modules/393658677/com.vdtlabs.get_mac.android.get_mac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1848378082/io.flutter.plugins.flutter_plugin_android_lifecycle.android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-1848378082/io.flutter.plugins.flutter_plugin_android_lifecycle.android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-261593540/vn.hunghd.flutter.plugins.imagecropper.android.image_cropper.iml" filepath="$PROJECT_DIR$/.idea/modules/-261593540/vn.hunghd.flutter.plugins.imagecropper.android.image_cropper.iml" />
+    </modules>
+  </component>
+</project>

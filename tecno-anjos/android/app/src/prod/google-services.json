@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530042554687",
+    "firebase_url": "https://tecnoanjos-b3f51.firebaseio.com",
+    "project_id": "tecnoanjos-b3f51",
+    "storage_bucket": "tecnoanjos-b3f51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530042554687:android:6fd3fb90b03ac42442eb8a",
+        "android_client_info": {
+          "package_name": "br.com.awscode.tecnoanjostec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530042554687-tln8hb5h1he23a7801kacgm22ab6sf6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl4Fphg9GfbOUghP_1MSDtmFy2t3MI5NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530042554687-tln8hb5h1he23a7801kacgm22ab6sf6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

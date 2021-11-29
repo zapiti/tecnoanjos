@@ -1,0 +1,7 @@
+lib/app/modules/splash_screean/splash_screean_module.dart
+lib/app/modules/splash_screean/splash_screean_page.dart
+test/app/modules/splash_screean/splash_screean_page_test.dart
+lib/app/modules/splash_screean/bloc/splash_screean_bloc.dart
+lib/app/modules/splash_screean/bloc/splash_screean_state.dart
+lib/app/modules/splash_screean/bloc/splash_screean_event.dart
+test/app/modules/splash_screean/splash_screean_bloc_test.dart

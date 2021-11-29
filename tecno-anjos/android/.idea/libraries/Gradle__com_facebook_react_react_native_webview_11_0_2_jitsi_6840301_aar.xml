@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-webview:11.0.2-jitsi-6840301@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13815ad903289e454ec013698cc65f2d/jetified-react-native-webview-11.0.2-jitsi-6840301/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13815ad903289e454ec013698cc65f2d/jetified-react-native-webview-11.0.2-jitsi-6840301/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13815ad903289e454ec013698cc65f2d/jetified-react-native-webview-11.0.2-jitsi-6840301/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-webview/11.0.2-jitsi-6840301/4d5806d2790ea665aa3c505c5be749597755319b/react-native-webview-11.0.2-jitsi-6840301-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

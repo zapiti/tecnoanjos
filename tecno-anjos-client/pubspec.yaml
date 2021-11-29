@@ -1,0 +1,252 @@
+name: tecnoanjosclient
+description: Tecno anjos
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 2.7.0+170
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  synchronized:
+  scroll_to_index:
+
+  google_sign_in:
+  flutter_login_facebook:
+
+  chips_choice:
+  uuid:
+  tutorial_coach_mark:
+  url_launcher:
+
+  #teste conexao
+  data_connection_checker: ^0.3.4
+
+  #informacoes do device
+  device_info: ^2.0.0
+
+  #botao circular da tela inicial
+  percent_indicator: ^2.1.9+1
+
+  #view com furinho
+  dotted_border: ^1.0.7
+
+  #busca por cep
+  search_cep: ^3.0.0+2
+  #icone
+  font_awesome_flutter: ^8.11.0
+
+
+
+  #  #permissao pra irar foto
+  #  permission: ^0.1.7
+
+  #scannear codigo de barra
+  flutter_barcode_scanner: ^1.0.2
+
+  #analise de crash
+  sentry_flutter: 4.0.6
+
+  #corta imagem
+  image_picker:
+  image_cropper: ^1.3.1
+
+  #menu de puxar lateral
+  flutter_slidable: ^0.5.7
+
+  #carregando hud
+  flutter_progress_hud: ^1.0.3
+
+  #socket para pegar hora realtime
+  socket_io_client: 2.0.0-beta.3
+
+  #preload da imagem
+  transparent_image: ^1.0.0
+
+  #formatacao de texto
+  flutter_parsed_text: ^1.2.5
+
+  #rotas
+  flutter_polyline_points: ^0.2.4
+
+  #lista agrupada
+  grouped_list: ^3.7.1
+
+  #estrelas da avaliacao
+  flutter_rating_bar: ^3.2.0+1
+
+  #para requisicoes html e funcionar no mobile
+  universal_html: ^1.2.4
+
+  #refresh ta pagina
+  pull_to_refresh: ^1.6.4
+
+  #6 digitos do codigo de verificacao
+  pinput: ^1.0.0
+  sms_autofill: ^1.3.1
+
+  #video chamada
+  jitsi_meet:
+
+  #mapa do atendimento
+  flutter_google_maps:
+  google_maps_flutter:
+
+  #notificacoes
+  onesignal_flutter: 3.0.0-beta4
+
+  #verificar a cada X tempo se tem conexao
+  equatable: ^1.2.6
+
+  #validadores
+  email_validator: ^1.0.6
+  regexed_validator: ^1.0.4
+  flux_validator_dart: ^1.0.3
+  cpfcnpj: ^1.0.3
+  credit_card_number_validator: ^1.0.4
+  credit_card_validate: ^0.0.3
+
+  #toques e alertas do chamado
+  assets_audio_player:
+
+  #botao de acao no chamado
+  slide_to_confirm: ^0.0.7
+
+  #icones adicionais do material
+  flutter_icons: ^1.1.0
+
+  #para reajustar fontes pequenas
+  auto_size_text: ^2.1.0
+
+  #leitura do qr code no chamado
+  qr_flutter: ^3.2.0
+
+  #redirecionamento pra tela web
+  # url_launcher: ^5.7.10
+
+  #transforma endereco em geolocalizacao
+  geocoder: ^0.2.1
+  geocoding:
+
+  #analitics
+  amplitude_flutter: ^2.3.0
+
+  #dialog do tipo snackbar e customizado
+  another_flushbar:
+  progress_dialog: ^1.2.4
+
+  #fonte do app
+  google_fonts: ^1.1.2
+
+  #mascara monye/ cpf e afins
+  flutter_masked_text: ^0.8.0
+
+  #pegar endereco mac para mandar para servidor manter apenas um usuario logado
+  get_mac:
+
+  #firebase para acoes em realtime
+  firebase_core:
+  cloud_firestore:
+#  cloud_firestore: ^0.16.0
+#  firebase_core: ^0.7.0
+
+  #jwt decoder
+  jwt_decode: ^0.2.0
+
+  #salvar coisas localmente
+  localstorage: 4.0.0+1
+
+  #requisicoes
+  dio: ^3.0.10
+
+  #gif da splash
+  flutter_gifimage: ^1.0.1
+
+  #bloc da conexao de internet
+  flutter_bloc: ^6.1.2
+
+  #instancias da arquitetura modular bloc rxdart
+  rxdart:
+  get_it: ^5.0.6
+  flutter_modular: ^2.0.1
+  flavor:
+
+
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+
+dev_dependencies:
+  mockito: ^4.1.1
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+flavorizr:
+  app:
+    android:
+      flavorDimensions: "flavor-type"
+    ios:
+
+  flavors:
+    dev:
+      app:
+        name: "Dev"
+
+    homolog:
+      app:
+        name: "Homolog"
+
+    prod:
+      app:
+        name: "Prod"
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/audio/
+
+
+vars:
+  runner: flutter pub run build_runner
+  clean: flutter clean
+  get: flutter pub get
+
+scripts:
+  build_dev: flutter build appbundle --flavor dev --target=lib/main_dev.dart --release
+  build_homolog: flutter build appbundle --flavor homolog --target=lib/main_homolog.dart --release
+  build_prod: flutter build appbundle --flavor prod --target=lib/main_prod.dart --release
+  build_web_homolog: flutter build web --target=lib/main_homolog.dart --release
+  build_web_prod: flutter build web --target=lib/main_prod.dart --release
+  build_web_dev: flutter build web  --target=lib/main_dev.dart --release
+
+
+
+
+ # slidy g m modules/general/teste & slidy g p modules/general/teste
